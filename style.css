@@ -1,0 +1,46 @@
+body {
+    width: 100%;
+    background-color: antiquewhite;
+    color: black;
+}
+
+p {
+    font-size: larger;
+    letter-spacing: 3px;
+}
+
+img {
+    width: 150px;
+    float: right;
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 23px 10.7em;
+}
+
+table {
+    margin-top: 20px;
+    width: 80%;
+    border: 5px solid salmon;
+    border-collapse: collapse;
+    position: relative;
+    padding-right: 'images-width';
+    text-align: center;
+}
+
+.table-1 {
+    margin-top: 7em;
+}
+
+tr,
+th,
+td {
+    border: 1px solid sandybrown;
+    width: 50px;
+}
+
+.header {
+    padding-top: 20px;
+    background-color: salmon;
+    height: 50%;
+}
